@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  margin-bottom: 20px;
+}
+.pform{
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+a{
+  text-decoration: none;
+  font-size: 30px;
+  color: white;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: rgb(149, 195, 255);
+}
+button{
+  padding: 10px 15px;
+  font-size: 20px;
+}
